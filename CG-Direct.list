@@ -7,10 +7,16 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配,CG维护
+#百度
 DOMAIN-KEYWORD,baidu
+#腾讯
 DOMAIN-KEYWORD,tencent
+#慢慢买
 DOMAIN-KEYWORD,manmanbuy
+#百度支付
 DOMAIN-KEYWORD,dxmpay
+#小程序
+DOMAIN-KEYWORD,volceapplog
 
 # 跨境电商
 #卖家精灵
