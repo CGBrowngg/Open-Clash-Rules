@@ -31,6 +31,11 @@ DOMAIN-KEYWORD,oray
 DOMAIN-SUFFIX,ziniao.com
 DOMAIN-KEYWORD,ziniao
 
+# Bing
+# From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+
 
 
 # IP段匹配
